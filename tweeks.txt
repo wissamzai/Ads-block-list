@@ -1,0 +1,9 @@
+youtube.com###metapanel:style(visibility: hidden;)
+youtube.com###shorts-inner-container:hover #metapanel:style(visibility: visible !important;)
+youtube.com###foreground-content
+youtube.com##.toast-button.style-scope.yt-notification-action-renderer.paper-toast-open
+
+anichart.net##.header:style(opacity: 1 !important; transform: none !important;)
+anichart.net##.external-links-wrap:style(opacity: 1 !important; display:none !important; transform: none !important;)
+anichart.net##.cover:style(pointer-events: none;)
+anichart.net##.overlay a:style(pointer-events: auto;)
